@@ -1,30 +1,98 @@
-[![MasterHead](https://forkdrop.io/images/article/github-banner@0,5x.png)](https://karankanojiya.io)
 <h1 align="center">Hi 👋, I'm Karan Kanojiya</h1>
-<h3 align="center">Backend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Senior software engineer | Java backend (Spring Boot, microservices, AWS)</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karankanojiya&label=Profile%20views&color=0e75b6&style=flat" alt="karankanojiya" /> </p>
-
-- 🔭 I’m currently working on  [Fusion 360](https://www.autodesk.com/campaigns/fusion-360)
-
-- 💬 Ask me about **Java | Spring | Microservices | AWS**
-
-- 📫 How to reach me **kanojiyakaran@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cQNj1rcKe-yhGHK9K3RtIZGDeMsS1PXu/view](https://drive.google.com/file/d/1cQNj1rcKe-yhGHK9K3RtIZGDeMsS1PXu/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karan-kanojiya-38b86b95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-kanojiya-38b86b95" height="30" width="40" /></a>
-<a href="https://www.instagram.com/backendkaran_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_kanojiya_27" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=Java+and+Spring+Boot+microservices+on+AWS;GraphQL+search+APIs;Distributed+caching+with+Redis+and+Valkey;Learning+generative+AI+engineering+in+Java" alt="Java and Spring Boot microservices on AWS. GraphQL search APIs. Distributed caching with Redis and Valkey. Learning generative AI engineering in Java." />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="#about-me">About me</a> ·
+  <a href="#tools-i-work-with">Tools</a> ·
+  <a href="#click-to-read-more">Read more</a> ·
+  <a href="#connect-with-me">Connect</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karankanojiya&show_icons=true&locale=en&layout=compact" alt="karankanojiya" /></p>
+### About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karankanojiya&show_icons=true&locale=en" alt="karankanojiya" /></p>
+Backend engineer with 8+ years of experience in Java. I build Spring Boot microservices and REST APIs on Amazon Web Services (AWS). I work at Autodesk on the cloud backend of Autodesk Fusion.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karankanojiya&" alt="karankanojiya" /></p>
+[![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-000000?style=flat-square)](https://www.autodesk.com/products/fusion-360/overview)
+
+- 💬 **Ask me about:** Java, Spring Boot, microservices, distributed caching (Redis, Valkey), and AWS
+- 📫 **Reach me:** [kanojiyakaran@gmail.com](mailto:kanojiyakaran@gmail.com)
+- 📄 **Resume:** [view PDF](https://drive.google.com/file/d/1cQNj1rcKe-yhGHK9K3RtIZGDeMsS1PXu/view)
+
+### Tools I work with
+
+Click the Java badge to see my Java repositories.
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/KaranKanojiya?tab=repositories&language=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square)
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat-square)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Valkey](https://img.shields.io/badge/Valkey-6983FF?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+### Click to read more
+
+<details>
+<summary><b>🔭 What I do at work</b></summary>
+
+- Java and Spring Boot microservices and REST APIs on AWS (Lambda, SQS, DynamoDB, ECS)
+- GraphQL search APIs
+- Distributed caching with Redis and Valkey
+- Monitoring, alerting, and production support (Splunk, Dynatrace, Grafana, Prometheus)
+- React and TypeScript features with Jest tests, since 2025
+
+</details>
+
+<details>
+<summary><b>🌱 What I am learning</b></summary>
+
+Generative AI engineering in Java: tool calling, Model Context Protocol (MCP), retrieval-augmented generation (RAG), and AI agents.
+
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![PostgreSQL and pgvector](https://img.shields.io/badge/PostgreSQL%20and%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🧪 Study projects</b></summary>
+
+- [system-design-interview-prep](https://github.com/KaranKanojiya/system-design-interview-prep): 20 system designs in Java 21, all in memory and built with AI coding tools. It includes a rate limiter with 5 algorithms, a cache with consistent hashing, a message queue, and a payment ledger.
+- AI engineering in Java (not public yet): tool calling, an MCP server and client, hybrid search with BM25 and embeddings, agents, and evals.
+
+</details>
+
+<details>
+<summary><b>📊 Why this page shows little activity</b></summary>
+
+Most of my work is in private company repositories, so the activity on this page shows only a small part of it.
+
+</details>
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/karan-kanojiya-38b86b95)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/backendkaran_k)
+[![Email](https://img.shields.io/badge/Email-555555?style=flat-square)](mailto:kanojiyakaran@gmail.com)
+[![All repositories](https://img.shields.io/badge/All%20repositories-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/KaranKanojiya?tab=repositories)
