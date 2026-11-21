@@ -1,98 +1,145 @@
 <h1 align="center">Hi 👋, I'm Karan Kanojiya</h1>
-<h3 align="center">Senior software engineer | Java backend (Spring Boot, microservices, AWS)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=Java+and+Spring+Boot+microservices+on+AWS;GraphQL+search+APIs;Distributed+caching+with+Redis+and+Valkey;Learning+generative+AI+engineering+in+Java" alt="Java and Spring Boot microservices on AWS. GraphQL search APIs. Distributed caching with Redis and Valkey. Learning generative AI engineering in Java." />
+  <strong>Senior Software Engineer · Java Backend</strong><br>
+  Java · Spring Boot · Microservices · AWS · ✨ Gen AI
 </p>
 
 <p align="center">
-  <a href="#about-me">About me</a> ·
-  <a href="#tools-i-work-with">Tools</a> ·
-  <a href="#click-to-read-more">Read more</a> ·
-  <a href="#connect-with-me">Connect</a>
+  I have 8+ years of backend engineering experience. At Autodesk, I build cloud services for Fusion, focusing on search, distributed caching, and production reliability.
 </p>
 
-### About me
+<p align="center">
+  <a href="https://drive.google.com/file/d/1YTgWQe3zheCisSo6g8e4iv06dzmFlZit/view?usp=sharing"><img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons@master/images/svg/pdf.svg" width="20" height="20" align="middle" alt="">&nbsp;<strong>Resume PDF</strong></a>
+  &emsp;
+  <a href="mailto:kanojiyakaran@gmail.com"><img src="https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_32dp.png" width="20" height="20" align="middle" alt="">&nbsp;<strong>Email</strong></a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/karan-kanojiya-38b86b95"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linkedin/linkedin-original.svg" width="20" height="20" align="middle" alt="">&nbsp;<strong>LinkedIn</strong></a>
+  &emsp;
+  <a href="https://github.com/KaranKanojiya"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/favicons/favicon-dark.svg"><img src="https://github.githubassets.com/favicons/favicon.svg" width="20" height="20" align="middle" alt=""></picture>&nbsp;<strong>GitHub</strong></a>
+</p>
 
-Backend engineer with 8+ years of experience in Java. I build Spring Boot microservices and REST APIs on Amazon Web Services (AWS). I work at Autodesk on the cloud backend of Autodesk Fusion.
+<p align="center">
+  <a href="#autodesk">Autodesk</a> &nbsp;·&nbsp;
+  <a href="#tricentis">Tricentis</a> &nbsp;·&nbsp;
+  <a href="#tata-communications">Tata Communications</a> &nbsp;·&nbsp;
+  <a href="#technical-skills">Technical skills</a>
+</p>
 
-[![Autodesk Fusion](https://img.shields.io/badge/Autodesk%20Fusion-000000?style=flat-square)](https://www.autodesk.com/products/fusion-360/overview)
+---
 
-- 💬 **Ask me about:** Java, Spring Boot, microservices, distributed caching (Redis, Valkey), and AWS
-- 📫 **Reach me:** [kanojiyakaran@gmail.com](mailto:kanojiyakaran@gmail.com)
-- 📄 **Resume:** [view PDF](https://drive.google.com/file/d/1cQNj1rcKe-yhGHK9K3RtIZGDeMsS1PXu/view)
+## Autodesk
 
-### Tools I work with
+<p>
+  <a href="https://www.autodesk.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://damassets.autodesk.net/content/dam/autodesk/logos/autodesk-logo-wht.svg"><img src="https://damassets.autodesk.net/content/dam/autodesk/logos/autodesk-logo-blk.svg" width="140" align="middle" alt="Autodesk"></picture></a>
+  &nbsp;&nbsp;│&nbsp;&nbsp;
+  <a href="https://www.autodesk.com/products/fusion-360/overview"><img src="https://damassets.autodesk.net/content/dam/autodesk/dotcom-next/icons/fusion-product-icon.svg" width="24" height="24" align="middle" alt="">&nbsp;<strong>Autodesk Fusion</strong></a>
+</p>
 
-Click the Java badge to see my Java repositories.
+**Senior Software Engineer** · May 2024 – Present
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/KaranKanojiya?tab=repositories&language=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square)
-![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat-square)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Valkey](https://img.shields.io/badge/Valkey-6983FF?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
-### Click to read more
+- **Collaborative Editing** — Received Autodesk Applause recognition for cross-team backend delivery.
+- **Fusion Search** — Led the Fusion team’s staging rollout of search to a new data region that later went live.
+- **Redis to Valkey** — Cut cache costs by **about 20%** at the same capacity.
 
 <details>
-<summary><b>🔭 What I do at work</b></summary>
+<summary><strong>Click here for more info on Fusion projects</strong></summary>
 
-- Java and Spring Boot microservices and REST APIs on AWS (Lambda, SQS, DynamoDB, ECS)
-- GraphQL search APIs
-- Distributed caching with Redis and Valkey
-- Monitoring, alerting, and production support (Splunk, Dynatrace, Grafana, Prometheus)
-- React and TypeScript features with Jest tests, since 2025
+- **Collaborative Editing** — Enhanced hub support tooling and delivered backend release changes with the Manufacturing Data Model API team.
+- **Fusion Search** — Worked with the Search Platform team on search performance and duplicate results. Helped preserve API compatibility for web and desktop clients during the GraphQL migration and added Dynatrace monitoring for the rollout.
+- **Redis to Valkey** — Migrated the cache for a Java 17 REST API across three AWS regions using a feature flag and phased rollout.
 
 </details>
 
+## Tricentis
+
+<p>
+  <a href="https://www.tricentis.com/"><img src="https://avatars.githubusercontent.com/u/11387507?s=60&amp;v=4" width="24" height="24" align="middle" alt="">&nbsp;<strong>Tricentis</strong></a>
+  &nbsp;&nbsp;│&nbsp;&nbsp;
+  <a href="https://www.tricentis.com/products/unified-test-management-qtest"><img src="https://docs.tricentis.com/qtest-saas/Skins/Favicons/ProductIcon.png" width="24" height="24" align="middle" alt="">&nbsp;<strong>qTest</strong></a>
+</p>
+
+**Software Engineer** · Jun 2021 – May 2024
+
+Built a Spring MVC REST API for qTest that cut response time by **30%**.
+
 <details>
-<summary><b>🌱 What I am learning</b></summary>
+<summary><strong>Click here for more info on qTest and Jira</strong></summary>
 
-Generative AI engineering in Java: tool calling, Model Context Protocol (MCP), retrieval-augmented generation (RAG), and AI agents.
-
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![PostgreSQL and pgvector](https://img.shields.io/badge/PostgreSQL%20and%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+- Worked with the Atlassian developer community to diagnose a Jira migration issue.
+- Partnered with internal R&D on rate-limit handling, helping cut webhook sync time by **20%**.
 
 </details>
 
-<details>
-<summary><b>🧪 Study projects</b></summary>
+## Tata Communications
 
-- [system-design-interview-prep](https://github.com/KaranKanojiya/system-design-interview-prep): 20 system designs in Java 21, all in memory and built with AI coding tools. It includes a rate limiter with 5 algorithms, a cache with consistent hashing, a message queue, and a payment ledger.
-- AI engineering in Java (not public yet): tool calling, an MCP server and client, hybrid search with BM25 and embeddings, agents, and evals.
+<p>
+  <a href="https://www.tatacommunications.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tatacommunications.com/hubfs/Tata-Communications/Logos/Tata%20Communications%20Logo%20White.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Tata_Comm_logo.svg" width="166" align="middle" alt="Tata Communications"></picture></a>
+  &nbsp;&nbsp;│&nbsp;&nbsp;
+  <a href="https://s3.us-east-1.amazonaws.com/tmf-sfdc-public/Conformance/CON-03653/TCTS-NeoAutomata-API%20Certification%20Report%20-%20TMF656-v5.0.0-API%20-JUNE26.pdf#page=2"><strong>Trouble-to-Resolve</strong></a>
+</p>
+
+**Java Developer** · Jul 2018 – Jun 2021
+
+Built Java and Spring Boot services for the Trouble-to-Resolve service management platform.
+
+<details>
+<summary><strong>Click here for more info on workflow automation</strong></summary>
+
+Used open-source jBPM and Red Hat Process Automation Manager to implement BPMN workflows and business rules for service operations.
 
 </details>
 
-<details>
-<summary><b>📊 Why this page shows little activity</b></summary>
+---
 
-Most of my work is in private company repositories, so the activity on this page shows only a small part of it.
+## Technical skills
 
-</details>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Area</th>
+      <th colspan="4" align="center">Tools and technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row" align="left">Backend and APIs</th>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/openjdk/F89820" width="20" height="20" alt=""><br><strong>Java</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="20" height="20" alt=""><br><strong>Spring&nbsp;Boot</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/graphql/E535AB" width="20" height="20" alt=""><br><strong>GraphQL</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row" align="left">Cloud and data</th>
+      <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=aws&amp;theme=light" width="20" height="20" alt=""><br><strong>AWS</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/postgresql/82B4D9" width="20" height="20" alt=""><br><strong>PostgreSQL</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/redis/F55259" width="20" height="20" alt=""><br><strong>Redis</strong></td>
+      <td align="center" valign="top"><img src="https://valkey.io/img/favicon/favicon-32x32.png" width="20" height="20" alt=""><br><strong>Valkey</strong></td>
+    </tr>
+    <tr>
+      <th scope="row" align="left">Delivery and testing</th>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/docker/2496ED" width="20" height="20" alt=""><br><strong>Docker</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/jenkins/D24939" width="20" height="20" alt=""><br><strong>Jenkins</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/spinnaker/1398C8" width="20" height="20" alt=""><br><strong>Spinnaker</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/junit5/25A162" width="20" height="20" alt=""><br><strong>JUnit</strong></td>
+    </tr>
+    <tr>
+      <th scope="row" align="left">Observability</th>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/dynatrace/69CAFF" width="20" height="20" alt=""><br><strong>Dynatrace</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/splunk/B5C5E2" width="20" height="20" alt=""><br><strong>Splunk</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/grafana/F46800" width="20" height="20" alt=""><br><strong>Grafana</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="20" height="20" alt=""><br><strong>Prometheus</strong></td>
+    </tr>
+    <tr>
+      <th scope="row" align="left">Generative AI</th>
+      <td align="center" valign="top"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/main/dist/ArtificialIntelligence/Bedrock.png" width="20" height="20" alt=""><br><strong>Amazon<br>Bedrock</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/langgraph/77D8CD" width="20" height="20" alt=""><br><strong>LangGraph</strong></td>
+      <td align="center" valign="top"><img src="https://cdn.simpleicons.org/modelcontextprotocol/B5C5E2" width="20" height="20" alt=""><br><strong>MCP</strong></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/karan-kanojiya-38b86b95)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/backendkaran_k)
-[![Email](https://img.shields.io/badge/Email-555555?style=flat-square)](mailto:kanojiyakaran@gmail.com)
-[![All repositories](https://img.shields.io/badge/All%20repositories-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/KaranKanojiya?tab=repositories)
+- **Backend** — Microservices, REST APIs, and distributed caching.
+- **AWS services** — ECS, Lambda, SQS, and DynamoDB.
+- **Gen AI** — Built an internal Jira triage copilot that drafts comments for engineer review. Exploring Spring AI and LangChain4j for tool calling, retrieval-augmented generation (RAG), and evaluations.
